@@ -1,1 +1,6 @@
 Soaped - A SOAP library for D
+
+Soaped is a simple library to allow making calls to SOAP services. It is in the very early stages of development. 
+It is not feature complete and nor ready for testing.
+
+If you would like to contribute or share your thoughts, contact me.
